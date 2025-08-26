@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [KARMUGILA R]
 
 🚀 Aspiring Software Developer | 🎓 Engineering Student | 💻 Passionate about Coding  
 
