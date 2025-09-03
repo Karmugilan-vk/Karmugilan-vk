@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: yourname@email.com  
+- 📧 Email: karmugilanrama@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🌍 [Portfolio](https://yourportfolio.com)  
 
