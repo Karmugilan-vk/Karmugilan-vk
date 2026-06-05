@@ -1,178 +1,212 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/main/banner.png" alt="Karmugilan Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Karmugilan%20R&fontSize=60&fontColor=58A6FF&fontAlignY=40&desc=Software%20Developer%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karmugilan R</h1>
 
-<h3 align="center">🚀 Software Developer | ☕ Java Developer | 💻 Full Stack Developer</h3>
+<h3 align="center">🚀 Software Developer &nbsp;|&nbsp; ☕ Java Developer &nbsp;|&nbsp; 💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Final+Year+Engineering+Student;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Building+Scalable+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Final+Year+Engineering+Student;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Building+Scalable+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karmugilan-vk&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Karmugilan-vk">
-    <img src="https://img.shields.io/github/followers/Karmugilan-vk?label=Followers&style=for-the-badge&color=58A6FF" />
+  <img src="https://komarev.com/ghpvc/?username=Karmugilan-vk&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/Karmugilan-vk?tab=followers">
+    <img src="https://img.shields.io/github/followers/Karmugilan-vk?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
   </a>
-  <a href="https://github.com/Karmugilan-vk">
-    <img src="https://img.shields.io/github/stars/Karmugilan-vk?affiliations=OWNER&style=for-the-badge&color=58A6FF" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Final Year Engineering Student
-
-💻 Passionate Software Developer
-
-🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Java & Spring Boot
-- MERN Stack Development
-- System Design
-
-🎯 Career Goal
-
-- Software Engineer
-- Backend Developer
-- Full Stack Developer
-
-📍 Chennai, India
+```yaml
+Name        : Karmugilan R
+Education   : Final Year Engineering Student
+Location    : Chennai, India
+Focus       : Java • Spring Boot • MERN Stack • DSA
+Goal        : Software Engineer | Backend Developer | Full Stack Developer
+Mindset     : Code • Learn • Build • Repeat
+```
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,idea,postman&perline=9" alt="Tech Stack" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-### 🪙 Coin Counting System
-Sensor-based coin recognition and sorting system using ESP8266, load cell technology, and laser sensors.
-
-### 🚌 Transport Enquiry System
-Route search, fare calculator, transport information, and history tracking.
-
-### 🍲 Cooking Recipe Management System
-Recipe search, meal planning, authentication, reviews, and nutritional information.
-
-### 💬 Real-Time Chat Application
-Secure communication using Socket.IO, JWT Authentication, MongoDB, and React.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🪙 Coin Counting System</h3>
+      <p>Sensor-based coin recognition and automatic sorting using ESP8266, laser sensors, and load-cell integration.</p>
+      <img src="https://img.shields.io/badge/IoT-ESP8266-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Hardware-LoadCell-orange?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>🚌 Transport Enquiry System</h3>
+      <p>Full-featured app with route search, fare calculator, transport info, and search history management.</p>
+      <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🍲 Cooking Recipe Management System</h3>
+      <p>Full-stack app with recipe search, meal planning, JWT authentication, reviews, and nutritional tracking.</p>
+      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs"/>
+    </td>
+    <td width="50%">
+      <h3>💬 Real-Time Chat Application</h3>
+      <p>Secure real-time messaging with Socket.IO, JWT Authentication, MongoDB, and React.</p>
+      <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio"/>
+      <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karmugilan-vk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Karmugilan-vk&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karmugilan-vk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Karmugilan-vk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karmugilan-vk&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karmugilan-vk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-# 📋 GitHub Profile Summary
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmugilan-vk&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📋 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmugilan-vk&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-- ✔ Data Structures & Algorithms
-- ✔ Java Development
-- ✔ Spring Boot
-- ✔ MERN Stack Development
-- ✔ Software Engineering
-- ✔ Open Source Contributions
+## 🎯 Current Focus
 
 ---
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-- System Design
-- REST APIs
-- Microservices
-- Cloud Technologies
-- Software Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-Learning-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-Building-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-Exploring-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-# 📚 Learning Journey
+## 📚 Learning Journey
 
 ```java
 class Karmugilan {
-    String role = "Software Developer";
-    String language = "Java";
-    String currentFocus = "DSA + Spring Boot + MERN";
-    String goal = "Software Engineer";
+    String name    = "Karmugilan R";
+    String role    = "Software Developer";
+    String[] stack = {"Java", "Spring Boot", "React", "Node.js", "MongoDB"};
+    String focus   = "DSA + Full Stack + System Design";
+    String goal    = "Software Engineer";
 
     public void keepLearning() {
-        System.out.println("Code • Learn • Build • Repeat");
+        while (true) {
+            code();
+            learn();
+            build();
+            repeat();
+        }
     }
 }
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 📚 Coding Profiles
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://leetcode.com/Karmugilan-vk">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <a href="https://github.com/Karmugilan-vk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.hackerrank.com/Karmugilan-vk">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-
-  <a href="https://karmugilan-vk.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge"/>
+  &nbsp;
+  <a href="https://www.codechef.com/users/karmugilan_vk">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/karmugilan">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Karmugilan-vk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://karmugilan-vk.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%" />
+</p>
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
