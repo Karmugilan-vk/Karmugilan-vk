@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Karmugilan%20R&fontSize=60&fontColor=58A6FF&fontAlignY=40&desc=Software%20Developer%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/main/banner.png" alt="Karmugilan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karmugilan R</h1>
@@ -100,7 +100,7 @@ Mindset     : Code • Learn • Build • Repeat
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ Mindset     : Code • Learn • Build • Repeat
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -122,6 +122,15 @@ Mindset     : Code • Learn • Build • Repeat
 ---
 
 ## 🎯 Current Focus
+
+```
+✔  Data Structures & Algorithms
+✔  Java & Spring Boot
+✔  MERN Stack Development
+✔  System Design & Architecture
+✔  Software Engineering
+✔  Open Source Contributions
+```
 
 ---
 
@@ -198,10 +207,6 @@ class Karmugilan {
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%" />
-</p>
 
 <div align="center">
 
