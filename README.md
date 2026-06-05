@@ -2,27 +2,17 @@
   <img src="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/main/banner.png" alt="Karmugilan Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Karmugilan R</h1>
-
-<h3 align="center">🚀 Software Developer &nbsp;|&nbsp; ☕ Java Developer &nbsp;|&nbsp; 💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Final+Year+Engineering+Student;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Building+Scalable+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Karmugilan+R" alt="Title" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karmugilan-vk&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/Karmugilan-vk?tab=followers">
-    <img src="https://img.shields.io/github/followers/Karmugilan-vk?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+UIs+with+React+%26+Tailwind;Powering+Backends+with+Node+%26+MongoDB;Designing+Systems+that+Scale" alt="Subtitle" />
 </p>
 
 ---
+
 
 ## 🚀 About Me
 
@@ -50,30 +40,35 @@ Mindset     : Code • Learn • Build • Repeat
 <table>
   <tr>
     <td width="50%">
-      <h3>🪙 Coin Counting System</h3>
-      <p>Sensor-based coin recognition and automatic sorting using ESP8266, laser sensors, and load-cell integration.</p>
-      <img src="https://img.shields.io/badge/IoT-ESP8266-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Hardware-LoadCell-orange?style=flat-square"/>
+      <h3>💬 Chatify</h3>
+      <p>Real-time chat application with private messaging, group chats, JWT authentication, and online status tracking.</p>
+      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio"/>
+      <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs"/>
     </td>
     <td width="50%">
-      <h3>🚌 Transport Enquiry System</h3>
-      <p>Full-featured app with route search, fare calculator, transport info, and search history management.</p>
-      <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk"/>
-      <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql"/>
+      <h3>🧠 ThinkBoard</h3>
+      <p>A collaborative idea and note management app to organize thoughts, tasks, and projects with a clean intuitive UI.</p>
+      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs"/>
+      <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍲 Cooking Recipe Management System</h3>
-      <p>Full-stack app with recipe search, meal planning, JWT authentication, reviews, and nutritional tracking.</p>
-      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs"/>
+      <h3>🛕 Temple Management Application</h3>
+      <p>Full-stack temple management system for handling devotee records, event scheduling, donations, and seva bookings.</p>
+      <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/Spring Boot-Framework-6DB33F?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql"/>
     </td>
     <td width="50%">
-      <h3>💬 Real-Time Chat Application</h3>
-      <p>Secure real-time messaging with Socket.IO, JWT Authentication, MongoDB, and React.</p>
-      <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio"/>
-      <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb"/>
+      <h3>🏧 Java ATM Simulator</h3>
+      <p>Console-based ATM simulator in Java with features like balance check, deposit, withdrawal, PIN change, and transaction history.</p>
+      <img src="https://img.shields.io/badge/Java-Core-ED8B00?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/OOP-Concepts-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Console-Application-grey?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -100,7 +95,7 @@ Mindset     : Code • Learn • Build • Repeat
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -108,7 +103,7 @@ Mindset     : Code • Learn • Build • Repeat
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
 </p>
 
 ---
@@ -194,15 +189,19 @@ class Karmugilan {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Karmugilan-vk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/github.png" width="48" height="48" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://karmugilan-vk.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail"/>
   </a>
 </p>
 
