@@ -11,27 +11,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+UIs+with+React+%26+Tailwind;Powering+Backends+with+Node+%26+MongoDB;Designing+Systems+that+Scale" alt="Subtitle" />
 </p>
 
----
-
-
 ## 🚀 About Me
 
-```yaml
-Name        : Karmugilan R
-Education   : Final Year Engineering Student
-Location    : Chennai, India
-Focus       : Java • Spring Boot • MERN Stack • DSA
-Goal        : Software Engineer | Backend Developer | Full Stack Developer
-Mindset     : Code • Learn • Build • Repeat
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="490" />
+
+```bash
+$ whoami
+  Karmugilan R — Full Stack Developer
+
+$ cat skills.txt
+  Java | React | Node.js | MongoDB
+
+$ cat location.txt
+  Karur, India
+
+$ cat goals.txt
+  Software Engineer | Backend Developer
+
+$ cat status.txt
+  Final Year Student | Open to Opportunities
+
+$ echo "Mindset"
+  Code • Learn • Build • Repeat ⚡
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,idea,postman&perline=9" alt="Tech Stack" />
-</p>
+<br clear="right"/>
 
 ---
 
