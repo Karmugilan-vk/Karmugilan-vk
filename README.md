@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
 ```bash
 $ whoami
   Karmugilan R — Full Stack Developer
@@ -218,3 +216,32 @@ class Karmugilan {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+
+```bash
+$ whoami
+  Karmugilan R — Full Stack Developer
+
+$ cat skills.txt
+  Java | Spring Boot | React | Node.js | MongoDB
+
+$ cat location.txt
+  Chennai, India
+
+$ cat goals.txt
+  Software Engineer | Backend Developer
+
+$ cat status.txt
+  Final Year Student | Open to Opportunities
+
+$ echo "Mindset"
+  Code • Learn • Build • Repeat ⚡
+```
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
+
+<br clear="right"/>
+
+---
