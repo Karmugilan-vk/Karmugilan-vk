@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/main/banner.png" alt="Karmugilan Banner" width="100%" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Karmugilan+R" alt="Title" />
 </p>
@@ -10,6 +9,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+UIs+with+React+%26+Tailwind;Powering+Backends+with+Node+%26+MongoDB;Designing+Systems+that+Scale" alt="Subtitle" />
 </p>
+
+---
 
 ## 🚀 About Me
 
@@ -32,8 +33,6 @@ $ cat status.txt
 $ echo "Mindset"
   Code • Learn • Build • Repeat ⚡
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -62,7 +61,6 @@ $ echo "Mindset"
       <h3>🛕 Temple Management Application</h3>
       <p>Full-stack temple management system for handling devotee records, event scheduling, donations, and seva bookings.</p>
       <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk"/>
-      <img src="https://img.shields.io/badge/Spring Boot-Framework-6DB33F?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql"/>
     </td>
     <td width="50%">
@@ -99,11 +97,10 @@ $ echo "Mindset"
 
 ---
 
----
-
 ## 💻 Languages & Tools I Work With
 
 ### 🖥️ Languages
+
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -115,6 +112,7 @@ $ echo "Mindset"
 ---
 
 ### 🧩 Frameworks & Libraries
+
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
@@ -126,6 +124,7 @@ $ echo "Mindset"
 ---
 
 ### 🛠️ Tools & Environment
+
 <p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
@@ -139,7 +138,7 @@ $ echo "Mindset"
 ## 🚀 My Developer Journey
 
 <div align="center">
-<h2>⚡ From Zero to Full Stack ⚡</h2>
+  <h2>⚡ From Zero to Full Stack ⚡</h2>
 </div>
 
 <br/>
@@ -187,7 +186,7 @@ $ echo "Mindset"
 
 <h3>💡 Always Building &nbsp;•&nbsp; Always Learning &nbsp;•&nbsp; Never Stopping ⚡</h3>
 
-<h3>🎯 Next Stop &nbsp;:&nbsp; Software Engineer🚀</h3>
+<h3>🎯 Next Stop &nbsp;:&nbsp; Software Engineer 🚀</h3>
 
 </div>
 
@@ -278,10 +277,13 @@ $ echo "Mindset"
   </tr>
 </table>
 
+</div>
 
 ---
 
-### 🐍 My Contribution Snake
+## 🐍 My Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/output/github-contribution-grid-snake-dark.svg"/>
@@ -299,6 +301,7 @@ $ echo "Mindset"
 <h4>🤝 Open to collaborations & opportunities 🚀</h4>
 
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" />
 </p>
