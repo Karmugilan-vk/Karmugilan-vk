@@ -192,25 +192,44 @@ $ echo "Mindset"
 </div>
 
 ---
+
 ## 📚 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/Karmugilan-vk">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/Karmugilan-vk">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/karmugilan_vk">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/karmugilan">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://leetcode.com/u/10sjUZATZW/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" height="60" alt="LeetCode"/>
+        <br/><br/>
+        <b>LeetCode</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Status-Active-FFA116?style=flat-square"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.hackerrank.com/profile/karmugilanrama">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" height="60" alt="HackerRank"/>
+        <br/><br/>
+        <b>HackerRank</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Status-Active-2EC866?style=flat-square"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.geeksforgeeks.org/profile/karmugilk25e">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60" alt="GeeksforGeeks"/>
+        <br/><br/>
+        <b>GeeksforGeeks</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Status-Active-0F9D58?style=flat-square"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
