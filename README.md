@@ -278,12 +278,8 @@ $ echo "Mindset"
   </tr>
 </table>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" />
+</p>
 
----
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
