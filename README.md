@@ -99,36 +99,39 @@ $ echo "Mindset"
 
 ---
 
+---
+
 ## 💻 Languages & Tools I Work With
 
-<div align="center">
-
 ### 🖥️ Languages
-| Java | JavaScript | HTML | CSS | MySQL |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" width="55"/> | <img src="https://skillicons.dev/icons?i=javascript" width="55"/> | <img src="https://skillicons.dev/icons?i=html" width="55"/> | <img src="https://skillicons.dev/icons?i=css" width="55"/> | <img src="https://skillicons.dev/icons?i=mysql" width="55"/> |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-### 🧩 Frameworks & Libraries
-| React | Node.js | Express | MongoDB | Tailwind |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react" width="55"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="55"/> | <img src="https://skillicons.dev/icons?i=express" width="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"/> |
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-
-### 🛠️ Tools & Environment
-| Git | GitHub | VS Code | IntelliJ | Postman |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> | <img src="https://skillicons.dev/icons?i=vscode" width="55"/> | <img src="https://skillicons.dev/icons?i=idea" width="55"/> | <img src="https://skillicons.dev/icons?i=postman" width="55"/> |
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+</p>
 
 ---
 
-## 📋 GitHub Profile Summary
-
+### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmugilan-vk&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+</p>
+
+---
+
+### 🛠️ Tools & Environment
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
 </p>
 
 ---
