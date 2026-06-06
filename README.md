@@ -101,12 +101,29 @@ $ echo "Mindset"
 
 ## 💻 Languages & Tools I Work With
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,mongodb,mysql,python,html,css,git,github&perline=6" />
-</p>
+<div align="center">
+
+### 🖥️ Languages
+| Java | JavaScript | HTML | CSS | MySQL |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java" width="55"/> | <img src="https://skillicons.dev/icons?i=javascript" width="55"/> | <img src="https://skillicons.dev/icons?i=html" width="55"/> | <img src="https://skillicons.dev/icons?i=css" width="55"/> | <img src="https://skillicons.dev/icons?i=mysql" width="55"/> |
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+### 🧩 Frameworks & Libraries
+| React | Node.js | Express | MongoDB | Tailwind |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="55"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="55"/> | <img src="https://skillicons.dev/icons?i=express" width="55"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="55"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"/> |
+| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### 🛠️ Tools & Environment
+| Git | GitHub | VS Code | IntelliJ | Postman |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="55"/> | <img src="https://skillicons.dev/icons?i=github" width="55"/> | <img src="https://skillicons.dev/icons?i=vscode" width="55"/> | <img src="https://skillicons.dev/icons?i=idea" width="55"/> | <img src="https://skillicons.dev/icons?i=postman" width="55"/> |
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+</div>
 
 ---
-
 
 ## 📋 GitHub Profile Summary
 
