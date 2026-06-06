@@ -136,54 +136,62 @@ $ echo "Mindset"
 
 ---
 
+## 🚀 My Developer Journey
 
-## 🎯 Current Focus
+<div align="center">
+<h2>⚡ From Zero to Full Stack ⚡</h2>
+</div>
 
-```
-✔  Data Structures & Algorithms
-✔  Java & Spring Boot
-✔  MERN Stack Development
-✔  System Design & Architecture
-✔  Software Engineering
-✔  Open Source Contributions
-```
+<br/>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240" />
+
+### 📅 Timeline
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2023-🎓-00D9FF?style=flat-square&labelColor=0d1117"/></td>
+    <td><b>Java & Core Programming</b> — Where it all began</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2024-💻-A960EE?style=flat-square&labelColor=0d1117"/></td>
+    <td><b>HTML • CSS • JavaScript • MySQL</b> — Web foundation built</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2025-⚛️-FF6B6B?style=flat-square&labelColor=0d1117"/></td>
+    <td><b>React • Node.js • MongoDB • MERN</b> — Full stack unlocked</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2025-🏗️-39D353?style=flat-square&labelColor=0d1117"/></td>
+    <td><b>4+ Real World Apps</b> — Shipped & deployed</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/2026-🎯-FF9F43?style=flat-square&labelColor=0d1117"/></td>
+    <td><b>Software Engineer Role</b> — Dream becoming reality 🚀</td>
+  </tr>
+</table>
+
+<br clear="right"/>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Stats At A Glance
+
+| 🏗️ Projects | 🌐 Stack | 📍 Base |
+|:---:|:---:|:---:|
+| **4+** | **MERN + Java** | **Karur 🇮🇳** |
+
+<br/>
+
+<h3>💡 Always Building &nbsp;•&nbsp; Always Learning &nbsp;•&nbsp; Never Stopping ⚡</h3>
+
+<h3>🎯 Next Stop &nbsp;:&nbsp; Software Engineer🚀</h3>
+
+</div>
 
 ---
-
-## 🌱 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-Learning-58A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-Building-58A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-Exploring-58A6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-## 📚 Learning Journey
-
-```java
-class Karmugilan {
-    String name    = "Karmugilan R";
-    String role    = "Software Developer";
-    String[] stack = {"Java", "Spring Boot", "React", "Node.js", "MongoDB"};
-    String focus   = "DSA + Full Stack + System Design";
-    String goal    = "Software Engineer";
-
-    public void keepLearning() {
-        while (true) {
-            code();
-            learn();
-            build();
-            repeat();
-        }
-    }
-}
-```
-
----
-
 ## 📚 Coding Profiles
 
 <p align="center">
