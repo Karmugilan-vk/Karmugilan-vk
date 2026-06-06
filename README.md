@@ -278,8 +278,27 @@ $ echo "Mindset"
   </tr>
 </table>
 
+
+---
+
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Karmugilan-vk/Karmugilan-vk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br/><br/>
+
+<h4>💡 If you like my work — drop a ⭐ on my repos!</h4>
+<h4>🤝 Open to collaborations & opportunities 🚀</h4>
+
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" />
 </p>
-
-
