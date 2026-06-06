@@ -235,27 +235,52 @@ $ echo "Mindset"
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Karmugilan-vk">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="48" height="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://karmugilan-vk.github.io/Portfolio/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/karmugilan-r-8aa645321">
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="80" height="80" alt="LinkedIn"/>
+        <br/><br/>
+        <b>LinkedIn</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Karmugilan-vk">
+        <img src="https://img.icons8.com/fluency/96/github.png" width="80" height="80" alt="GitHub"/>
+        <br/><br/>
+        <b>GitHub</b>
+        <br/>
+        <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://karmugilan-vk.github.io/Portfolio/">
+        <img src="https://img.icons8.com/fluency/96/domain.png" width="80" height="80" alt="Portfolio"/>
+        <br/><br/>
+        <b>Portfolio</b>
+        <br/>
+        <img src="https://img.shields.io/badge/View_Work-58A6FF?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:karmugilanrama@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80" height="80" alt="Gmail"/>
+        <br/><br/>
+        <b>Gmail</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Mail_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
