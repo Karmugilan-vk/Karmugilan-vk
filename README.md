@@ -80,8 +80,13 @@ $ echo "Mindset"
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karmugilan-vk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Karmugilan-vk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karmugilan-vk&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karmugilan-vk&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karmugilan-vk&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karmugilan-vk&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
@@ -102,15 +107,6 @@ $ echo "Mindset"
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karmugilan-vk&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karmugilan-vk&theme=tokyonight" />
-</p>
-
----
 
 ## 📋 GitHub Profile Summary
 
@@ -120,15 +116,6 @@ $ echo "Mindset"
 
 ---
 
-## 🏆 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karmugilan-vk&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karmugilan-vk&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
