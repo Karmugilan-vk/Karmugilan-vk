@@ -94,10 +94,10 @@ $ echo "Mindset"
 
 ---
 
-## 💻 Most Used Languages
+## 💻 Languages & Tools I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmugilan-vk&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,mongodb,mysql,python,html,css,git,github&perline=6" />
 </p>
 
 ---
@@ -105,7 +105,9 @@ $ echo "Mindset"
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karmugilan-vk&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karmugilan-vk&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karmugilan-vk&theme=tokyonight" />
 </p>
 
 ---
@@ -114,6 +116,16 @@ $ echo "Mindset"
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmugilan-vk&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+---
+
+## 🏆 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karmugilan-vk&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karmugilan-vk&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -216,32 +228,3 @@ class Karmugilan {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
-## 🚀 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-
-```bash
-$ whoami
-  Karmugilan R — Full Stack Developer
-
-$ cat skills.txt
-  Java | Spring Boot | React | Node.js | MongoDB
-
-$ cat location.txt
-  Chennai, India
-
-$ cat goals.txt
-  Software Engineer | Backend Developer
-
-$ cat status.txt
-  Final Year Student | Open to Opportunities
-
-$ echo "Mindset"
-  Code • Learn • Build • Repeat ⚡
-```
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
-
-<br clear="right"/>
-
----
